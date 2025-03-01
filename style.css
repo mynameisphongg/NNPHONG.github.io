@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #89d236;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background: white;
+    padding: 100px;
+    border-radius: 100px;
+    box-shadow: 0 4px 8px rgba(19, 240, 26, 0.2);
+    text-align: center;
+}
+
+h1 {
+    color: #b81212;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 20px;
+    font-size: 20px;
+}
+
+strong {
+    color: #e9e616;
+}
